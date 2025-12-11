@@ -96,7 +96,8 @@ ______________________________________________________________________
   
 | Página Principal Original (Desktop) | Página Principal de Natal (Mobile)|
 |------------------|------------------------|
-| <img width="1056" height="788" src="https://github.com/user-attachments/assets/b8ba741f-c29b-4a70-b47b-71c22d262cac" />|<img width="1056" height="788" alt="image" src="https://github.com/user-attachments/assets/f084e069-b211-447b-8cea-1ba78367ebc7" />
+|<img width="475" height="350" alt="image" src="https://github.com/user-attachments/assets/5eb96be9-fe9e-47cf-82c2-2902c7864179" />
+ />|<img width="1056" height="788" alt="image" src="https://github.com/user-attachments/assets/f084e069-b211-447b-8cea-1ba78367ebc7" />
 
 | Página Cadastre-se Original (Desktop)| Página Cadastre-se de Natal (Mobile)|
 |------------------|------------------------|
